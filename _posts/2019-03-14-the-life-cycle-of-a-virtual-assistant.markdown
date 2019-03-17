@@ -4,7 +4,7 @@ title: The Life Cycle of a Virtual Assistant
 date: 2019-03-14 05:00:00 +0000
 description: The life cycle of a virtual assistant # Add post description (optional)
 img: ava-1.jpg # Add image post (optional)
-tags: life cycle of a virtual assistant # add tag
+tags: lifecycle virtualassistant vabusiness # add tag
 ---
 The [Association of Virtual Assistants](https://associationofvas.com/){:target="_blank"} (AVA) was created by and for VAs at each and every stage of their career. Knowing the life cycle of a virtual assistant means more clarity, provides you with more options and opportunities, as well as helps you paint the vision for any future you wish to create. You can move through each stage as you choose and we’ll be here to support and celebrate your accomplishments!
 
