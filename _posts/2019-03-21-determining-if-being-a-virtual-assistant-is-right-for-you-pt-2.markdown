@@ -4,10 +4,10 @@ title: Determining If Being A Virtual Assistant Is Right For You pt 2
 date: 2019-03-20 19:00:00 +0000
 description: starting a virtual assistant business # Add post description (optional)
 img: Part-2.jpeg # Add image post (optional)
-tags: virtual assistant clients # add tag
+tags: vabusiness virtualassistant lifecycle clients vaclients # add tag
 ---
 
-In the first blog post we asked you the question, _Do you understand what it truly means to assist someone by starting a virtual assistant business?_ The next question in this four-part series to ask yourself is,
+In the first blog post we asked you the question, _[Do you understand what it truly means to assist someone by starting a virtual assistant business?](https://associationofvas.com/blog/determining-if-being-a-virtual-assistant-is-right-for-you-pt-1){:target="_blank"}_ The next question in this four-part series to ask yourself is,
 
 * Your virtual assistant clients, are you tired of serving them?
 
