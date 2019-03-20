@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Determining If Being A Virtual Assistant Is Right For You pt 2
-date: 2019-03-21 19:00:00 +0000
+date: 2019-03-20 19:00:00 +0000
 description: starting a virtual assistant business # Add post description (optional)
 img: Part-2.jpeg # Add image post (optional)
 tags: virtual assistant clients # add tag
