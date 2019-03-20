@@ -19,6 +19,6 @@ Another possibility is that your ideal client may have changed. You may not get 
 
 The [Association of Virtual Assistants](https://associationofvas.com/){:target="_blank"} is here to help. Whether you would like support in gaining virtual assistant clients, valuable perspective from your fellow VAs, get feedback on your next steps, or even help your clients find a new virtual assistant, these aren’t decisions you have to make on your own.
 
-Don’t allow yourself to get to the point where you are tired of serving clients as a virtual assistant. Join the AVA now and explore all the options available to you.
+Don’t allow yourself to get to the point where you are tired of serving clients as a virtual assistant. [Join the AVA now](https://thevirtualbusinesssummit.thrivecart.com/ava-membership/){:target="_blank"} and explore all the options available to you.
 
 _Be sure to follow us on [FB](https://www.facebook.com/Association-of-Virtual-Assistants-415696612306842/){:target="_blank"}, [IG](https://www.instagram.com/associationofvas/){:target="_blank"}, and [LinkedIn](https://www.linkedin.com/company/associationofvirtualassistants/){:target="_blank"} to stay up on the latest news. If you enjoyed this article we’d be honored if you shared it with your colleagues, family, and friends._
