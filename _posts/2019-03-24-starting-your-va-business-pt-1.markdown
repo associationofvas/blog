@@ -3,7 +3,7 @@ layout: post
 title: Starting Your VA Business pt 1 - Most Common & Costly Mistakes VAs Make
 date: 2019-03-24 00:00:00 +0000
 description: life cycle of a virtual assistant, starting your va business # Add post description (optional)
-img: pt1.jpg # Add image post (optional)
+img: p1.jpeg # Add image post (optional)
 tags: lifecycle virtualassistant startingyourvabusiness vabusiness # add tag
 ---
 
