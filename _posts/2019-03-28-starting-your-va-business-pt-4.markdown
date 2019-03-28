@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starting Your VA Business pt 4 - Why this isn't employment
+title: Starting Your VA Business pt 4 - Why This Isn't Employment
 date: 2019-03-28 00:00:00 +0000
 description: life cycle of a virtual assistant, starting your va business # Add post description (optional)
 img: p4.jpg # Add image post (optional)
