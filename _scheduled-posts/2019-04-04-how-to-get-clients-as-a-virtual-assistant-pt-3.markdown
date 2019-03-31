@@ -7,26 +7,30 @@ img: p-3.jpg # Add image post (optional)
 tags: lifecycle virtualassistant vaemployee vabusiness getclients # add tag
 ---
 
-This  stage of how to get clients as a virtual assistant is also referred to as niching. In our last article we discussed what to do if you don’t feel you’re ready to niche yet.
+Now that you know how to get clients as a virtual assistant it’s time to grow your book of business. If you missed [Part 1](https://associationofvas.com/blog/how-to-get-clients-as-a-virtual-assistant-pt-1){:target="_blank"} or [Part 2](https://associationofvas.com/blog/how-to-get-clients-as-a-virtual-assistant-pt-2){:target="_blank"} of this blog series I highly suggest reading those first.  
 
-Niching is one of the stages virtual assistants often resist the most. It can seem limiting and as if you are turning away clients when in fact it is just the opposite. Instead of turning away clients you are attracting clients toward you.
+Once you’ve closed your first client you are on your way towards a full book of business. However, you don’t just want any business. It can be very tempting to accept and work with any client. A decision you will most certainly regret. I know firsthand that there are few worse things than working with the wrong client. It’s not the same as working for an employer you don’t like. There is an escape from that. When you own your own business there is no escaping bad clients. They will haunt you and make you feel like a prisoner in your own working space!
 
-Niching attracts the right, high-value, ideal clients. It is NOT competition. You are not in competition with other virtual assistants or companies. In fact, your competition, if you choose to see it that way, is the client. Will the client believe you provide more value to their business than they do while providing the same duties?
+Why do we call it a full book of business? This is a relationship management technique used by businesses to maintain a close connection with high-value customers. Large businesses have both low-revenue clients and high-revenue clients which are also referred to as high-value. As a VA you cannot realistically serve (and by that I mean serve well) more than five high-value clients. Could you serve 10 low-revenue clients? Yes. However, ironically you will do at least twice the work and it doesn’t always equal to the same amount of money.
 
-There is a way to make niching fun so let’s do that! In the same way your favorite outfit or best hair day makes you feel special and ready to shine, so should your niche. Think about those high-value clients. Those clients who place a high value on your work as well. Why are they going to hire you?
+As we stated in the last article, niching attracts the right, high-value, ideal clients. It’s a numbers game. Here’s why it’s a numbers game.
 
-___Pro tip: It’s not because they need you. High-value clients don’t just hire people, they throw money at problems. Think about the client who wants to throw money at you to solve their problem. Imagine a potential client speaking with you and when they hear what you can provide they throw their hands up in the air, yell “YES!”, throw money at you, and ask when you can get started. That is your niche.___
+The first set of numbers you need to write out are what you need to make to afford your lifestyle. The next set of numbers is what you want to make to not only afford your current lifestyle but your future lifestyle and while putting money into saving for the future and taxes. Then divide by five. For simplicity we are going to use the round number of $5000 a month.
 
-Don’t worry if this takes a little time. The process is not step-by-step or linear. In fact, when you leave yourself open to possibilities instead of chasing after the wrong clients your ideal clients will often find you.
+$5000 a month = $1250 a week
+$1250 a week / 5 clients = $250 a week per client
+$250 a week / 5 clients =  1 hour a week at $50 an hour
 
-___Pro tip: If you are asked by two separate people to do the same task that you feel unqualified to do, DO IT! We often can’t see the potential in ourselves that others do. It means you are attracting your ideal clients.___
+5 hours a week
+20 hours a month
 
-If you are coming from administrative or executive assistance into virtual assistance there can be feelings of not doing enough and like you are short changing the client because you are used to being the “all the things EA”. When you become a VA you don’t want to be all the things, unless you still want to be chained to your laptop and on call all the time. Here are some actionable steps to take in order to find your niche:
-Ask your friends and family to tell you what they would think your occupation is if they didn’t know you already.
-Ask yourself what section of the library or bookstore you would hang out it all day if you could.
-Ask your family, friends and colleagues if they were to hire a VA what would they pay top dollar for.  
+This is not rocket science or hard.
 
-Don’t be afraid to try something new or even take a class. For every action you take it causes a reaction. That reaction could be the opportunity that answers the question of how to get clients as a virtual assistant. The Association of Virtual Assistants is ready to assist you in getting clients and finding your niche.  
+___Pro tip: Whenever you are overwhelmed, reverse engineer your problem. When your mind has to think backward it can’t process as fast and has to think which means it often has to think differently and can’t immediately race to the place of overwhelm. Go ahead. Try to say the alphabet backward as fast as you can say it forward.___
+
+The problem is most VAs get overwhelmed because they have allowed the numbers to become emotional nor have they broken it down into manageable steps. The reality is most clients use their virtual assistant about five hours a week and then grow from there. I’ve never met anyone who thought they couldn’t earn the business of five clients. How to get clients as a virtual assistant doesn’t have to be hard.
+
+The Association of Virtual Assistants is ready to assist you in getting a full book of business. We will remind you of your value, support you in the process, and keep you from getting overwhelmed.
 
 [Joining the Association of Virtual Assistants](https://thevirtualbusinesssummit.thrivecart.com/ava-membership/){:target="_blank"} also comes with its privileges and support specifically for you, the VA. Take advantage of all the privileges and benefits that come with being a VA!
 
