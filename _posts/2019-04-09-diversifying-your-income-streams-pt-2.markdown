@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diversifying Your Income Streams pt 2: Your Relevant Experience Matters
+title: Diversifying Your Income Streams pt 2 - Your Relevant Experience Matters
 date: 2019-04-09 00:00:00 +0000
 description: diversifying your income streams # Add post description (optional)
 img: income-p2.jpeg # Add image post (optional)
