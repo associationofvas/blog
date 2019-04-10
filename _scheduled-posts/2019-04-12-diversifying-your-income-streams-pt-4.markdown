@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diversifying Your Income Streams pt 4: The Positive Side Effects
+title: Diversifying Your Income Streams pt 4 - The Positive Side Effects
 date: 2019-04-12 00:00:00 +0000
 description: diversifying your income streams # Add post description (optional)
 img: income-p4.jpeg # Add image post (optional)

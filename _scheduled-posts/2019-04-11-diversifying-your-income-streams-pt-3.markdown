@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diversifying Your Income Streams pt 3: Creating Passive Income
+title: Diversifying Your Income Streams pt 3 - Creating Passive Income
 date: 2019-04-11 00:00:00 +0000
 description: diversifying your income streams # Add post description (optional)
 img: income-p3.jpeg # Add image post (optional)
