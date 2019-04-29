@@ -22,7 +22,6 @@ The roadmap to planning for succession (or any emergency) is laid out for you al
 3. List out potential successors. These do not have to come from inside your business.
 4. Keep documents up-to-date, secure, and organized with the right person/people knowing how to access them in the event of an unplanned event.
 
-
 Join the [Association of Virtual Assistants](https://associationofvas.com/){:target="_blank"} and begin to create your roadmap to success. We want retiring your business to be an exciting time in your career and would be honored to celebrate with you!
 
 The Association of Virtual Assistants is here for you today, tomorrow, and at every stage of your career. [Join](https://thevirtualbusinesssummit.thrivecart.com/ava-membership/){:target="_blank"} the AVA now to get your support.
