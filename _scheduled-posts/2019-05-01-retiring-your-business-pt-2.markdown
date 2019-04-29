@@ -1,25 +1,27 @@
 ---
 layout: post
-title: Retiring Your Business
-date: 2019-04-29 00:00:00 +0000
+title: Retiring Your Business pt 2 - Develop An Exit Plan
+date: 2019-05-01 00:00:00 +0000
 description: retiring your business # Add post description (optional)
-img: retiring-p1.jpeg # Add image post (optional)
+img: retiring-p2.jpeg # Add image post (optional)
 tags: retiring # add tag
 ---
 
-Retiring your business doesn’t necessarily mean you have to be retiring. You could be moving onto bigger and better things or this could be part of a sale or being acquired. In these times, even if your business reputation for the future isn’t a priority your planning efforts should be.
+Think it’s too soon to begin developing an exit plan? It’s not too soon. However, it could be too late by the time you start thinking about retiring your business.
 
-There are several things to keep in mind. These are also good practices to take even before you are ready to retire your business.
+Before you seek the advice of a trusted Certified Exit Planner go in knowing what questions should be asked and answered.
 
-1. Develop an exit plan.
-2. Create a personal financial plan.
-3. Formalize a succession plan.
+There are many reasons for exiting - retirement, health problems, change of interest, selling the business, or being acquired. Knowing the right time to exit is crucial. Something you’ll only know when it’s been written out and formalized in a plan.
 
-This may all seem overwhelming to do at once. And it would be if you tried to do it on your own. While there will be work for you to do. This is definitely not a time to go at it alone. You’ll want to hire trusted professionals, but you will have to do your homework first.
+If you are just starting out or at the top of your game exiting may seem like an unnecessary step. However, knowing the end goals will help you make better decisions now and for the future of your business.
 
-In the upcoming blogs we’ll be walking you through the homework steps.
+[Here are some Important questions to ask yourself](https://www.fundera.com/blog/exit-strategy-for-small-business){:target="_blank"} when thinking about your exit plan, according to Meredith Wood, Editor-in-Chief at Fundera, a company which specializes in financial advice for small business owners.  
 
-You may not have thought to join the Association of Virtual Assistants only to retire your VA business. However, isn’t it nice to know that you could receive help and support here? And, yes, a VA business is a business you can retire from.
+Do you want to stay involved in the business forever?
+What are your financial goals?
+How do you plan for an exit? There is more than one kind of strategy. Plan for the one you want, ie. retirement, sale, acquired, legacy, etc.
+
+Perhaps you are thinking that there is nothing to sell and once you stop working the income has stopped as well. You’ve already uncovered flaws in your business model that the [Association of Virtual Assistants](https://associationofvas.com/){:target="_blank"} is ready to help you address. Retiring your business should be on your terms and can only be done so with a plan in place.
 
 The Association of Virtual Assistants is here for you today, tomorrow, and at every stage of your career. [Join](https://thevirtualbusinesssummit.thrivecart.com/ava-membership/){:target="_blank"} the AVA now to get your support.
 
