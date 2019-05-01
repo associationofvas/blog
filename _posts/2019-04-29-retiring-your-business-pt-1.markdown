@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retiring Your Business
+title: Retiring Your Business pt 1
 date: 2019-04-29 00:00:00 +0000
 description: retiring your business # Add post description (optional)
 img: retiring-p1.jpeg # Add image post (optional)
