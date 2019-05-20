@@ -9,7 +9,7 @@ tags: # add tag
 
 Founder of Weisz Collaborative, I am a Full-Time Content Creator, who is skillful in research, editing, and social media platforms. I help entrepreneurs offload essential tasks that take up their valuable time in their business, so they can get back to being creative and put their focus where it matters.
 
-Connect with Me: www.weiszcollaborative.com | https://www.linkedin.com/in/katie-weisz/
+Connect with Me: [www.weiszcollaborative.com](http://www.weiszcollaborative.com){:target="_blank"} | [https://www.linkedin.com/in/katie-weisz/](https://www.linkedin.com/in/katie-weisz/){:target="_blank"}
 
 Why I recommend AVA:  AVA provides a wealth of knowledge that has been vetted and you can trust. Along with that, the community support of others on similar journeys is a wonderful asset.
 
