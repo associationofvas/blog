@@ -3,9 +3,11 @@ layout: post
 title: VA for a Day - Katie Weisz
 date: 2019-05-20 00:00:00 +0000
 description: # Add post description (optional)
-img: VAforaday-KatieWeisz.png # Add image post (optional)
+img: vaforaday1.png # Add image post (optional)
 tags: # add tag
 ---
+
+![Katie Weisz]({{site.baseurl}}/assets/img/VAforaday-KatieWeisz.png)
 
 Founder of Weisz Collaborative, I am a Full-Time Content Creator, who is skillful in research, editing, and social media platforms. I help entrepreneurs offload essential tasks that take up their valuable time in their business, so they can get back to being creative and put their focus where it matters.
 
