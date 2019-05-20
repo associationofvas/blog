@@ -3,7 +3,7 @@ layout: post
 title: VA for a Day pt 1 - Katie Weisz
 date: 2019-05-20 00:00:00 +0000
 description: # Add post description (optional)
-img: # Add image post (optional)
+img: VAforaday-KatieWeisz.png # Add image post (optional)
 tags: # add tag
 ---
 
