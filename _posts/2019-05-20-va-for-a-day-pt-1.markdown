@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VA for a Day pt 1 - Katie Weisz
+title: VA for a Day - Katie Weisz
 date: 2019-05-20 00:00:00 +0000
 description: # Add post description (optional)
 img: VAforaday-KatieWeisz.png # Add image post (optional)
@@ -9,9 +9,9 @@ tags: # add tag
 
 Founder of Weisz Collaborative, I am a Full-Time Content Creator, who is skillful in research, editing, and social media platforms. I help entrepreneurs offload essential tasks that take up their valuable time in their business, so they can get back to being creative and put their focus where it matters.
 
-Connect with Me:
-[www.weiszcollaborative.com](http://www.weiszcollaborative.com){:target="_blank"}
-[https://www.linkedin.com/in/katie-weisz/](https://www.linkedin.com/in/katie-weisz/){:target="_blank"}
+__Connect With Me:__
+* Website : [weiszcollaborative.com](https://www.weiszcollaborative.com/){:target="_blank"}
+* LinkedIn: [linkedin.com/in/katie-weisz](https://www.linkedin.com/in/katie-weisz/){:target="_blank"}
 
 Why I recommend AVA:  AVA provides a wealth of knowledge that has been vetted and you can trust. Along with that, the community support of others on similar journeys is a wonderful asset.
 
