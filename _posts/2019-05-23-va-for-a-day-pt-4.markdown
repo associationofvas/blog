@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VA for a Day - Christy Boher
+title: VA for a Day - Christy Bohrer
 date: 2019-05-23 00:00:00 +0000
 description: # Add post description (optional)
 img: vaforaday4.png # Add image post (optional)
