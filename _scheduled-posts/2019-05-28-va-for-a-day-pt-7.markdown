@@ -1,13 +1,13 @@
 ---
 layout: post
-title: VA for a Day - Alicia Mathis
-date: 2019-05-27 00:00:00 +0000
+title: VA for a Day - Lora Howdyshell
+date: 2019-05-28 00:00:00 +0000
 description: # Add post description (optional)
-img: vaforaday6.png # Add image post (optional)
+img: vaforaday7.png # Add image post (optional)
 tags: # add tag
 ---
 
-![Alicia Mathis]({{site.baseurl}}/assets/img/VAforaday-Alicia Mathis.png)
+![Lora Howdyshell]({{site.baseurl}}/assets/img/VAforaday-Lora Howdyshell.png)
 
 My name is Alicia Mathis, the owner of MAK Virtual Services and a Veteran. I have more than 15 years’ experience in administrative support.
 I have worked for various organizations in the US and Iraq. I have also worked as a logistics coordinator and personal assistant. I have not only been self-employed, but I have also held management positions in several companies and worked in private government contracting.

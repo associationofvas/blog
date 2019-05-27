@@ -15,7 +15,6 @@ My specialties include administrative assistance, scheduling, calendar managemen
 
 __Connect With Me:__
 * LinkedIn: [linkedin.com/in/makvirtualservice](www.linkedin.com/in/makvirtualservice){:target="_blank"}
-* Website: [marissaabao.com](https://marissaabao.com/){:target="_blank"}
 
 __Why I recommend AVA:__
 I think this group is filled with tons of information that can help you be successful in your venture. I also love the fact that everyone is so friendly and helpful when you have a question. It's just a close community online that I am happy to be apart of.
