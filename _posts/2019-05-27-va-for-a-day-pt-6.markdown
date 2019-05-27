@@ -11,6 +11,7 @@ tags: # add tag
 
 My name is Alicia Mathis, the owner of MAK Virtual Services and a Veteran. I have more than 15 years’ experience in administrative support.
 I have worked for various organizations in the US and Iraq. I have also worked as a logistics coordinator and personal assistant. I have not only been self-employed, but I have also held management positions in several companies and worked in private government contracting.
+
 My specialties include administrative assistance, scheduling, calendar management, email/voicemail management, project management, editing, proofreading, document formatting and social media management.
 
 __Connect With Me:__

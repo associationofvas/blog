@@ -9,18 +9,20 @@ tags: # add tag
 
 ![Lora Howdyshell]({{site.baseurl}}/assets/img/VAforaday-Lora Howdyshell.png)
 
-My name is Alicia Mathis, the owner of MAK Virtual Services and a Veteran. I have more than 15 years’ experience in administrative support.
-I have worked for various organizations in the US and Iraq. I have also worked as a logistics coordinator and personal assistant. I have not only been self-employed, but I have also held management positions in several companies and worked in private government contracting.
-My specialties include administrative assistance, scheduling, calendar management, email/voicemail management, project management, editing, proofreading, document formatting and social media management.
+Lora is an Executive Virtual Assistant living in Columbus, Ohio, with an extensive background working with various Founders, CEO's, COO's and Presidents of large organizations.
+
+Her belief in self-development and growth has led her to relentlessly pursue her dream of working as a virtual assistant, offering help to solopreneurs and small businesses along the way.
 
 __Connect With Me:__
-* LinkedIn: [linkedin.com/in/makvirtualservice](www.linkedin.com/in/makvirtualservice){:target="_blank"}
-* Website: [marissaabao.com](https://marissaabao.com/){:target="_blank"}
+* LinkedIn: [linkedin.com/in/lora-howdyshell](http://www.linkedin.com/in/lora-howdyshell){:target="_blank"}
 
 __Why I recommend AVA:__
-I think this group is filled with tons of information that can help you be successful in your venture. I also love the fact that everyone is so friendly and helpful when you have a question. It's just a close community online that I am happy to be apart of.
+This is the first association that I have found that is very professional and is taking the industry of Virtual Assistants serious.  I have the utmost confidence and trust in this association and its members.  AVA just had a professional summit that was spectacular.
+
+AVA offers summits, and training to help keep us up to date on the latest industry trends.  AVA offers career resources and often will send out client opportunities to the members.  AVA has certainly given me a sense of security and trust just knowing it is around to offer support if I have a question. Since I have joined, my confidence level in being a VA has gone way up.  The amount of knowledge and support is endless!  There is constant reassurance that we are not alone.  AVA is the real deal!
 
 __My fun facts:__
-* I worked in Iraq 2 1/2 years as a civilian contractor.   
-* I am veteran of the Army
-* I drove from NC to Washington State when I was 18 best road trip ever!
+* I have two 14 year old rescues who are my best friends. I do everything with them!  
+* I have run in the Columbus, Marine Corps (in D.C.) and Chicago Marathons and plan to do New York City soon.  
+* I have also finished six Century (100 mile) bike rides.  
+* I like to be outside and active as much as possible!
