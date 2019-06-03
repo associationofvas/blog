@@ -3,7 +3,7 @@ layout: post
 title: Running Your Virtual Assistant Business During the Summer Pt 1
 date: 2019-05-31 00:01:00 +0000
 description: # Add post description (optional)
-img:  # Add image post (optional)
+img: SummerAVA1.png # Add image post (optional)
 tags: # add tag
 ---
 
