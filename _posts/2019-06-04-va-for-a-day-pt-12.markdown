@@ -9,7 +9,7 @@ tags: # add tag
 
 ![Åsa Tassdal]({{site.baseurl}}/assets/img/VAforaday-Åsa Tassdal.png)
 
-irtea helps entreprenuers with "everything else". Whatever the problem is that is keeping you from being able to focus on your core business, I will take care of it for you. Either by doing it myself, or by finding you the best solution.
+Virtea helps entrepreneurs with "everything else". Whatever the problem is that is keeping you from being able to focus on your core business, I will take care of it for you. Either by doing it myself, or by finding you the best solution.
 
 __Connect With Me:__
 * LinkedIn: [linkedin.com/in/asa-vea](https://www.linkedin.com/in/asa-vea){:target="_blank"}
