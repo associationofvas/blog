@@ -3,7 +3,7 @@ layout: post
 title: VA for a Day - Deanna Monet
 date: 2019-06-11 00:00:00 +0000
 description: # Add post description (optional)
-img: vaforaday16.png # Add image post (optional)
+img: vaforaday17.png # Add image post (optional)
 tags: # add tag
 ---
 
