@@ -7,7 +7,7 @@ img: vaforaday16.png # Add image post (optional)
 tags: # add tag
 ---
 
-![Katie Ehle]({{site.baseurl}}/assets/img/VAforaday-Katie Ehle)
+![Katie Ehle]({{site.baseurl}}/assets/img/VAforaday-Katie Ehle.png)
 
 Over 15 years of marketing and creative design experience, I strive to help marketing agencies and small companies with all their marketing needs. Ekklesia Marketing is a full white labeling agency that can help provide the workforce your agency needs.
 
