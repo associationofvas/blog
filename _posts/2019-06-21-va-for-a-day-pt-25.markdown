@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VA for a Day - Ericka Pardun
-date: 2019-06-20 00:00:00 +0000
+date: 2019-06-21 00:00:00 +0000
 description: # Add post description (optional)
 img: vaforaday25.png # Add image post (optional)
 tags: # add tag
