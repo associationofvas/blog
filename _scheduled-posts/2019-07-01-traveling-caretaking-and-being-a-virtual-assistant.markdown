@@ -3,7 +3,7 @@ layout: post
 title: Traveling, Caretaking & Being a Virtual Assistant
 date: 2019-07-01 00:00:00 +0000
 description: # Add post description (optional)
-img: # Add image post (optional)
+img: travellingpt4-ava.jpeg # Add image post (optional)
 tags: # add tag
 ---
 
