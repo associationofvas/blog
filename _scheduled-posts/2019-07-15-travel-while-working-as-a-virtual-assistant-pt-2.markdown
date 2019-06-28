@@ -3,7 +3,7 @@ layout: post
 title: Travel While Working  As A Virtual Assistant Pt 2
 date: 2019-07-15 00:00:00 +0000
 description: # Add post description (optional)
-img: # Add image post (optional)
+img: travelpt2jamie-ava.jpeg # Add image post (optional)
 tags: # add tag
 ---
 

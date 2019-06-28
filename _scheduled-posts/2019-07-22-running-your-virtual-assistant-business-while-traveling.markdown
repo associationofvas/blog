@@ -3,7 +3,7 @@ layout: post
 title: Running Your Virtual Assistant Business While Traveling
 date: 2019-07-22 00:00:00 +0000
 description: # Add post description (optional)
-img: # Add image post (optional)
+img: travelling.jpg # Add image post (optional)
 tags: # add tag
 ---
 
