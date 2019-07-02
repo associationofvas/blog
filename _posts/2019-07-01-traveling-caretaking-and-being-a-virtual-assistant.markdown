@@ -71,4 +71,4 @@ _Lizabeth Wesely-Casella is a professional Virtual Assistant who enjoys supporti
 
 When not working you can find Lizabeth reading, traveling or walking with her husband and dogs, Pumpkin and Tigger, on Capitol Hill in Washington, DC.
 
-Find out more about Lizabeth Wesely-Casella on her [LinkedIn profile](http://www.linkedin.com/in/lizabeth-wesely-casella){:target="_blank"} or the services she provides at her website [L-12 Services](http://L12Services.com){:target="_blank"}._
+Find out more about Lizabeth Wesely-Casella on her [LinkedIn profile](http://www.linkedin.com/in/lizabeth-wesely-casella){:target="_blank"} or the services she provides at her website [L-12 Services](http://L12Services.com){:target="_blank"}.
