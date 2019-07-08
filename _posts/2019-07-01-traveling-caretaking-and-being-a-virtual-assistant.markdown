@@ -67,8 +67,8 @@ Be sure you don’t forget to give yourself the high-quality support you provide
 
 __About the Author:__
 
-_Lizabeth Wesely-Casella is a professional Virtual Assistant who enjoys supporting executives, social entrepreneurs, and small businesses. Lizabeth has a background in project management and process improvement and her clients benefit from her ability to organize, forecast and coordinate multiple projects.  Her passions are assisting underserved communities and participating in humanitarian aid programs by supporting leaders using new technology and creative funding mechanisms.
+_Lizabeth Wesely-Casella is a professional Virtual Assistant who enjoys supporting executives, social entrepreneurs, and small businesses. Lizabeth has a background in project management and process improvement and her clients benefit from her ability to organize, forecast and coordinate multiple projects.  Her passions are assisting underserved communities and participating in humanitarian aid programs by supporting leaders using new technology and creative funding mechanisms._
 
-When not working you can find Lizabeth reading, traveling or walking with her husband and dogs, Pumpkin and Tigger, on Capitol Hill in Washington, DC.
+_When not working you can find Lizabeth reading, traveling or walking with her husband and dogs, Pumpkin and Tigger, on Capitol Hill in Washington, DC._
 
-Find out more about Lizabeth Wesely-Casella on her [LinkedIn profile](http://www.linkedin.com/in/lizabeth-wesely-casella){:target="_blank"} or the services she provides at her website [L-12 Services](http://L12Services.com){:target="_blank"}.
+_Find out more about Lizabeth Wesely-Casella on her [LinkedIn profile](http://www.linkedin.com/in/lizabeth-wesely-casella){:target="_blank"} or the services she provides at her website [L-12 Services](http://L12Services.com){:target="_blank"}._
