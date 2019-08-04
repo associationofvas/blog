@@ -3,7 +3,7 @@ layout: post
 title: Getting Back to Your Virtual Assistant Business - Think Like a CEO Pt. 1
 date: 2019-08-04 00:00:00 +0000
 description: # Add post description (optional)
-img: # Add image post (optional)
+img: ceo1.jpeg # Add image post (optional)
 tags: # add tag
 ---
 
