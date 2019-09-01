@@ -3,7 +3,7 @@ layout: post
 title: Productivity Tips for Virtual Assistants pt 1 - Rest Is The New Hustle
 date: 2019-09-01 00:00:00 +0000
 description: # Add post description (optional)
-img: # Add image post (optional)
+img: coffee.jpg # Add image post (optional)
 tags: # add tag
 ---
 
