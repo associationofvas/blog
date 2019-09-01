@@ -7,9 +7,6 @@ img: # Add image post (optional)
 tags: # add tag
 ---
 
-__Productivity Tips for Virtual Assistants - Rest Is The New Hustle__
-
-
 Writing a blog post on productivity to some of the most productive people in the workforce is no easy task. In fact, you’ll never see me sharing articles on productivity on any of my personal business platforms for three reasons.
 
 The first reason is that for our clients, I don’t believe it is their job to be productive in the way the media suggests. Instead, their job is to hire the right virtual assistant who can be productive on their behalf while they do the things that only they can do. Whatever they actually started their business to do. If a client started their business to coach others then that is what they should be focusing on - coaching clients, learning new ways to coach, the latest in coaching, how to coach multiple clients, reading, writing, and speaking on coaching, etc.
