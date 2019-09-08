@@ -7,7 +7,7 @@ img: AVA-Sept.9-post.jpg # Add image post (optional)
 tags: # add tag
 ---
 
-Last week I left you with one of my new favorite quotes, “Rest is the new hustle”. If you haven’t read it yet, I encourage you to check it out.
+Last week I left you with one of my new favorite quotes, “Rest is the new hustle”. If you haven’t read it yet, I encourage you to [check it out](https://associationofvas.com/blog/productivity-tips-for-virtual-assistants-pt-1){:target="_blank"}.
 
 Productivity tips for virtual assistants is not an easy topic to write about it. I know how productive VAs are! This series is less about the tactical and more about the holistic. There is no doubt in my mind that de-stressing your life will make you more productive.
 
