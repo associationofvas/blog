@@ -9,7 +9,7 @@ tags: # add tag
 
 Virtual assistants love their tools. We all have our favorites. There is no one right or wrong platform. There is, however, a platform that was created just for you - [Adminja](https://www.getadminja.com/avapro/){:target="_blank"}! This is productivity on steroids!
 
-Adminja is the all-in-one client management solution designed exclusively for virtual assistants. Believe me, this is important. Not all other software was designed for VAs and because it wasn’t doesn’t address the needs specific to our unique challenges. If you charge by the hour or even pay your own team by the hour the time tracking feature Adminja offers is reason enough to sign up! There is nothing else better on the market.
+Adminja is the all-in-one client management solution designed exclusively for virtual assistants. Believe me, this is important. Not all other software was designed for VAs and because it doesn’t address the needs specific to our unique challenges. If you charge by the hour or even pay your own team by the hour the time tracking feature Adminja offers is reason enough to sign up! There is nothing else better on the market.
 
 Now, of course, we know you need more than time tracking capabilities and it doesn’t boast “all-in-one” for nothing. All those files and notes you have on your clients, easily store, share, update, and find them when you need them the most. It captures and does more for you than project manage because those ongoing daily, weekly, and monthly duties aren’t projects but just as important. Customize your billing and invoices to what the client wants to see. Not just the options available to you in your current invoicing software.
 
